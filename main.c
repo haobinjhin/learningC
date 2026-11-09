@@ -104,8 +104,4 @@ int main(void) {
 //Q1 a and f
 
 //Chapter 12
-//Q1 a 14
-// b 34
-// c 4
-// d true
-// e false
+//Q2 pointers can't be divided so to fix this you need to make sure that you're specifying the location of the element
